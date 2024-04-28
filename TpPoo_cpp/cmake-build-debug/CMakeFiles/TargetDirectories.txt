@@ -1,0 +1,14 @@
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/tp1_ex1.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp1_ex2.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp1_ex3.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp1_ex4.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp2Comp_ex1.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp2Comp_ex2.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp2_ex1.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp2_ex2.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp2_ex3.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp3_ex1.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp3_ex3.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/Tp3_ex4.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amani/CLionProjects/TpPoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

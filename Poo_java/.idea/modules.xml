@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Poo.iml" filepath="$PROJECT_DIR$/.idea/Poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp1/tp1_ex1/tp1_ex1.iml" filepath="$PROJECT_DIR$/tp1/tp1_ex1/tp1_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp1/tp1_ex2/tp1_ex2.iml" filepath="$PROJECT_DIR$/tp1/tp1_ex2/tp1_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp1/tp1_ex3/tp1_ex3.iml" filepath="$PROJECT_DIR$/tp1/tp1_ex3/tp1_ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp1/tp1_ex4/tp1_ex4.iml" filepath="$PROJECT_DIR$/tp1/tp1_ex4/tp1_ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2/tp2_ex1/tp2_ex1.iml" filepath="$PROJECT_DIR$/tp2/tp2_ex1/tp2_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2/tp2_ex2/tp2_ex2.iml" filepath="$PROJECT_DIR$/tp2/tp2_ex2/tp2_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2/tp2_ex4/tp2_ex4.iml" filepath="$PROJECT_DIR$/tp2/tp2_ex4/tp2_ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tpComp/tpCom_ex1/tpCom_ex1.iml" filepath="$PROJECT_DIR$/tpComp/tpCom_ex1/tpCom_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tpComp/tpComp_ex2/tpComp_ex2.iml" filepath="$PROJECT_DIR$/tpComp/tpComp_ex2/tpComp_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2/tp_ex3/tp_ex3.iml" filepath="$PROJECT_DIR$/tp2/tp_ex3/tp_ex3.iml" />
+    </modules>
+  </component>
+</project>

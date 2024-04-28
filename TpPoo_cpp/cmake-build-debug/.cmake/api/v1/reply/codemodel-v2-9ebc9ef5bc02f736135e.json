@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TpPoo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp1_ex2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp1_ex2-Debug-c5f2cd1aa30db1c6c3dd.json",
+					"name" : "Tp1_ex2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp1_ex3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp1_ex3-Debug-1c5c28b3cc44e5ff254c.json",
+					"name" : "Tp1_ex3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp1_ex4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp1_ex4-Debug-5c44ab2e856e4747d283.json",
+					"name" : "Tp1_ex4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp2Comp_ex1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp2Comp_ex1-Debug-af7e542496199d53e090.json",
+					"name" : "Tp2Comp_ex1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp2Comp_ex2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp2Comp_ex2-Debug-2ab885ea72803b13a510.json",
+					"name" : "Tp2Comp_ex2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp2_ex1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp2_ex1-Debug-3b47c48d37fcb94c363a.json",
+					"name" : "Tp2_ex1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp2_ex2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp2_ex2-Debug-572cfb18290bac25a572.json",
+					"name" : "Tp2_ex2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp2_ex3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp2_ex3-Debug-e86cf14d8c1bd420c5f2.json",
+					"name" : "Tp2_ex3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp3_ex1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp3_ex1-Debug-fe3b61a813463e304c1d.json",
+					"name" : "Tp3_ex1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp3_ex3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp3_ex3-Debug-6f7b3648507abd6d8877.json",
+					"name" : "Tp3_ex3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tp3_ex4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tp3_ex4-Debug-2056d74f378fdb1ef9ac.json",
+					"name" : "Tp3_ex4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tp1_ex1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tp1_ex1-Debug-9fda874bfe7c074f358f.json",
+					"name" : "tp1_ex1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/amani/CLionProjects/TpPoo/cmake-build-debug",
+		"source" : "/home/amani/CLionProjects/TpPoo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
